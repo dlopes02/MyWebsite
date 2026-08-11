@@ -360,6 +360,12 @@ function setupVideos() {
     const container = video.closest('.video-container');
     const playButton = container?.querySelector('.video-play');
 
+    video.addEventListener('loadedmetadata', () => {
+      if (video.videoHeight > video.videoWidth) {
+        container?.classList.add('video-portrait');
+      }
+    });
+
     video.volume = 0.1;
 
     const playVideo = () => {
