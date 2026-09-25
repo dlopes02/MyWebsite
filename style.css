@@ -650,16 +650,6 @@ button {
     object-fit: contain;
     background: #000;
   }
-  border: 1px solid rgba(255, 255, 255, 0.22);
-  border-radius: 50%;
-  background: rgba(7, 10, 14, 0.64);
-  backdrop-filter: blur(14px);
-  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.35);
-  cursor: pointer;
-  opacity: 0;
-  transform: translate(-50%, -50%) scale(0.88);
-  transition: opacity 180ms ease, transform 180ms ease, background 180ms ease;
-}
 
 .video-play::before {
   content: "";

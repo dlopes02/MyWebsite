@@ -59,9 +59,10 @@ Para visualizar:
 - Exibição de tecnologias como HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js, Java, PHP, SQL, Git, Figma, Adobe Illustrator, Photoshop, Premiere Pro, After Effects, Blender e Unity
 
 ### Projetos destacados
-- **Javadex**: website temático em JavaScript
-- **v.graphiks**: website de identidade visual e branding
 - **Noir Detail**: website institucional para serviços de detailing premium
+- **v.graphiks**: website de identidade visual e branding
+- **Vaultex**: aplicação web de controlo financeiro pessoal e partilhado
+- **Javadex**: website temático em JavaScript
 - **Onboarding do Projeto Final**: vídeo demonstrativo
 - **Banner Promocional TW**: design gráfico e composição
 - **Logo Animado TW**: animação de marca
@@ -75,6 +76,8 @@ Para visualizar:
 - Imagens e mockups com modal de visualização
 
 ## Alterações recentes
+- Adicionado o novo website **Vaultex** em 3º lugar na secção de projetos e no portfólio PDF
+- Criada thumbnail dedicada em alta resolução para o Vaultex
 - Atualizado o projeto **Noir Detail** para suportar tradução em inglês
 - Corrigido o título do projeto **v.graphiks** em toda a apresentação
 - Melhorias de tradução e acessibilidade no site
